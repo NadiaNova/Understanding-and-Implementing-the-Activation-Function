@@ -52,17 +52,7 @@ z=wx+b (weighted sum of inputs plus bias).
 
 Now, replacing z with x for simplicity, we get:
 
-�
-(
-�
-)
-=
-1
-1
-+
-�
-−
-�
+
 f(x)= 
 1+e 
 −x
@@ -180,8 +170,5 @@ The problem of vanishing gradients, often encountered with sigmoid and tanh func
 
 
 
-## License
-
-[GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/why-not-lgpl.html)
 
 ![Alt text](URL "Title")
