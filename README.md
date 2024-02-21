@@ -28,9 +28,14 @@ Activation functions are utilized in neural networks for several reasons:
 
 Let's derive the formula for the sigmoid activation function:
 
-f(x)= 1+e −x
+
+f(x)= 
+1+e 
+−x
  
 1
+​
+
 
 
 To derive this, we start with the logistic function:
