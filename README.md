@@ -213,7 +213,7 @@ Computational cost: Certain activation functions, especially those involving exp
 Activation functions influence the gradient descent process by determining the direction and magnitude of weight updates.
 The problem of vanishing gradients, often encountered with sigmoid and tanh functions, can impede convergence, especially in deep networks. This occurs because the gradients diminish as they propagate backward through layers, making it challenging to update the weights of earlier layers effectively.
 
-## References:
+# 5. References:
 
 1. Visit my Kaggle profile for code: https://www.kaggle.com/afsananadia
 2. Image source: https://machinelearningmastery.com/wp-content/uploads/2020/12/How-to-Choose-an-Hidden-Layer-Activation-Function.png
